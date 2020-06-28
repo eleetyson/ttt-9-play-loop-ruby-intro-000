@@ -41,4 +41,6 @@ def play(board)
   loop do
     total_turns ++
     
+    
+    
 end
