@@ -43,5 +43,6 @@ def play(board)
     turn(board)
     if total_turns >= 9
       break
+    end
   end
 end
